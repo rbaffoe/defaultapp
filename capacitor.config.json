@@ -1,0 +1,10 @@
+{
+  "appId": "uk.co.videocomments.defaultapp",
+  "appName": "DefaultApp",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
